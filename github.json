@@ -1,0 +1,34 @@
+{
+  "github": [
+    {
+      "appId": "C001",
+      "appName": "com.conch.sll",
+      "address": [
+        {
+          "api": "https://api.hk.live.me",
+          "pic": "https://vod.hk.live.me"
+        }
+      ]
+    },
+    {
+      "appId": "C002",
+      "appName": "com.conch.ifunstv",
+      "address": [
+        {
+          "api": "https://api.fs.live.me",
+          "pic": "https://vod.fs.live.me"
+        }
+      ]
+    },
+    {
+      "appId": "C003",
+      "appName": "com.conch.ifunstv",
+      "address": [
+        {
+          "api": "https://api.fs.live.me",
+          "pic": "https://vod.fs.live.me"
+        }
+      ]
+    }
+  ]
+}
